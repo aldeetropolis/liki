@@ -1,8 +1,8 @@
 ---
 title: "Laboratorium Interoperabilitas Kesehatan Indonesia"
-description: |
-  Welcome to the website. I hope you enjoy it!
 image: "logo-liki.jpg"
+description: |  
+  Landing Page Laboratorium Interoperabilitas Kesehatan Indonesia
 base_url: https://aldeetropolis.github.io/liki
 site: distill::distill_website
 ---
