@@ -1,4 +1,4 @@
-name: "liki.or.id"
+name: "."
 title: "LIKI"
 description: |
   Laboratorium Interoperabilitas Kesehatan Indonesia
@@ -9,4 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "LIKI"
+      href: liki.html
 output: distill::distill_article
