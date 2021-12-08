@@ -11,11 +11,9 @@ site: distill::distill_website
  
 Ini adalah landing page Laboratorium Interoperabilitas Kesehatan Indonesia.
 
-***
-
 ## Mari Bergabung
 
-Silahkan bergabung dengan kami di grup Slack ...
+Silahkan bergabung dengan kami di grup Slack ... |
 Dan grup Whatsapp ...
 
 ***
