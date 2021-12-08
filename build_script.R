@@ -2,9 +2,9 @@ library(postcards)
 library(distill)
 library(rmarkdown)
 
-create_website(dir = ".", title = "Adam Garber", gh_pages = TRUE)
+create_website(dir = ".", title = "LIKI", gh_pages = TRUE)
 
-create_postcard("file = landing-page.Rmd")
+create_article(file = "liki", template = "trestles", package = "postcards")
 
 create_theme(name = "theme") 
 

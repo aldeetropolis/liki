@@ -1,12 +1,16 @@
 ---
 title: "Laboratorium Interoperabilitas Kesehatan Indonesia"
 image: "logo-liki.jpg"
-description: |  
-  Landing Page Laboratorium Interoperabilitas Kesehatan Indonesia
-base_url: https://aldeetropolis.github.io/liki
+links:
+  - label: Email
+    url: "mail.aldilas@gmail.com"
+  - label: Slack
+    url: "https://join.slack.com/t/labinterkesindo/shared_invite/zt-zfv25ctv-C6wagQOZNW4q6DW4HXp9dw"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
-
+ 
 ## Selamat Datang
  
 Ini adalah landing page Laboratorium Interoperabilitas Kesehatan Indonesia.
