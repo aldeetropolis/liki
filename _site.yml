@@ -3,7 +3,6 @@ title: "Laboratorium Interoperabilitas Kesehatan Indonesia"
 description: |
   Laboratorium Interoperabilitas Kesehatan Indonesia
 output_dir: "docs"
-theme: theme.css
 navbar:
   right:
     - text: "Home"
